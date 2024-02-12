@@ -1,0 +1,15 @@
+td {
+    height: 90px;
+    width: 90px;
+    text-align: center;
+    font-size: 90px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.center {
+    margin: 0px auto 0px auto;
+}
+
+body {
+    background: rgb(200, 200, 200);
+}
